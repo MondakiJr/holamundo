@@ -5,8 +5,8 @@ public class Main {
 
         JOptionPane.showMessageDialog(
                 null,
-                "Hola mundo",
-                "Mi primer programa",
+                "Hola mundo. Esta es la versión 2",
+                "Mi segundo programa",
                 JOptionPane.INFORMATION_MESSAGE
         );
 
