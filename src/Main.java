@@ -5,8 +5,8 @@ public class Main {
 
         JOptionPane.showMessageDialog(
                 null,
-                "Hola mundo. Esta es la versión 2",
-                "Mi segundo programa",
+                "Hola mundo. Modificación realizada por otro usuario",
+                "Nueva versión",
                 JOptionPane.INFORMATION_MESSAGE
         );
 
